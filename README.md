@@ -108,7 +108,7 @@ jupyter
 ```
 health-query-chatbot-llm/
 │
-├── Task4_Health_Query_Chatbot.ipynb   # Main notebook
+├── Health_Query_Chatbot.ipynb   # Main notebook
 ├── requirements.txt                   # Dependencies
 └── README.md                          # This file
 ```
